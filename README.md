@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=HanSoo%20Kang&fontColor=ffffff&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&text=HanSoo%20Kang&fontColor=ffffff&fontSize=70" />
 </div>
 
 <br/>
@@ -33,11 +33,11 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST API-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
 </p>
 
 ### 🔹 Frontend
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux/Zustand-764ABC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Redux%20/%20Zustand-764ABC?style=flat-square"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
 
@@ -62,19 +62,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
 </p>
 
 ### 🔹 AI
 <p>
-  <img src="https://img.shields.io/badge/LLM API-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG System-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM%20API-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG%20System-4B0082?style=flat-square"/>
 </p>
 
 <br/>
