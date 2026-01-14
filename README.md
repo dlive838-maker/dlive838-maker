@@ -77,8 +77,6 @@
   <img src="https://img.shields.io/badge/RAG%20System-4B0082?style=flat-square"/>
 </p>
 
-<br/>
-
 ### 🔹 Productivity & Design Tools
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white"/>
