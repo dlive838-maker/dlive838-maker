@@ -79,6 +79,15 @@
 
 <br/>
 
+### 🔹 Productivity & Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧑‍💻 Contact Me
